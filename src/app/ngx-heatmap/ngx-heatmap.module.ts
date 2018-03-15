@@ -9,5 +9,5 @@ import { HeatMapComponent } from './ngx-heatmap.component';
   declarations: [HeatMapComponent],
   providers: [],
 })
-export class HeatMapModule {
+export class NgxHeatMapModule {
 }

@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 
 
 import { AppComponent } from './app.component';
-import { HeatMapModule } from './ngx-heatmap/ngx-heatmap.module';
+import { NgxHeatMapModule } from './ngx-heatmap/ngx-heatmap.module';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 
@@ -14,7 +14,7 @@ import { FormsModule } from '@angular/forms';
   ],
   imports: [
     BrowserModule,
-    HeatMapModule,
+    NgxHeatMapModule,
     CommonModule,
     FormsModule
   ],
