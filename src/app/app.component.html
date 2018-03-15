@@ -1,0 +1,10 @@
+<ngx-heatmap [height]="height"
+             [width]="width"
+             [maxDataPoints]="500"
+             [minDataPoints]="500"
+             [heatPoints]="data">
+</ngx-heatmap>
+
+<button (click)="onGenerateRandomDataClick()">Generate</button>
+Height: <input type="text" [(ngModel)]="height" [ngModelOptions]="{standAlone: true}"><br>
+Width: <input type="text" [(ngModel)]="width" [ngModelOptions]="{standAlone: true}"><br>
