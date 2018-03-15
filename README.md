@@ -1,6 +1,6 @@
 # ngx heatmap
 
-An angular wrapper for heatmap.js.
+An angular wrapper for heatmap.js. (Development in progress)
 
 ### Installation
 
