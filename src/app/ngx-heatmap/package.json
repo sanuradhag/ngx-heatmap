@@ -20,9 +20,6 @@
   },
   "private": false,
   "dependencies": {
-    "heatmap.js": "^2.0.5"
-  },
-  "devDependencies": {
-    "types/heatmap.js": "2.0.35"
+    "@types/heatmap.js": "^2.0.35"
   }
 }
