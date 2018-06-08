@@ -46,7 +46,7 @@ Style guide will be added soon.
    |[width]| Input| 400px |  Width of the heat map canvas|
    |[maxDataPoints]| Input| null| Maximum number of points on heat map| 
    |[minDatPoints]| Input| null| Minimum number of points on heat map.| 
-   |[heatPoints]| Input| [] - empty array| Array containing heat map points| 
+   |[heatPoints]| Input| {} - empty Object| Object, that contains the data Attribute, that containing an Array with heat map points| 
    |[configurations]| Input| {} - empty object| Configurations for heat map| 
   
 
